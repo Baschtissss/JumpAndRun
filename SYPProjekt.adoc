@@ -1,0 +1,28 @@
+= 2D Jump & Run
+
+== Teilnehmer
+* Jona Krist
+* Sebastian Witzeneder
+* Dominik Soltysiak
+* Sofiane Bounab
+
+== Programme
+* Unity, C#
+* Gimp, Photoshop
+
+== Beschreibung
+* 2D Jump & Run mit Pixelart für Windows.
+* Beispiele für Spiele die es schon auf dem Markt gibt: Celeste, Hollow Knight, Shovel Knight etc.
+
+== Spielinhalt
+* Kleine Story
+* Rätsel lösen
+* Levelsystem mit verschiedenen Themen
+* Shop
+* Items + Coins
+* Charaktere mit Fähigkeiten
+
+== Zusatz
+* Endless Mode
+* Co-op Modus
+* Cosmetics
