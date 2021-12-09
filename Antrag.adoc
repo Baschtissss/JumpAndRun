@@ -1,0 +1,33 @@
+= Projektantrag für 2D Jump & Run
+
+== Beschreibeung
+2D Jump & Run Spiel für Windows. Dieses Spiel soll eine klare Story mit sich bringen und darin auch mehrere Charaktere, welche man nach der Zeit alle spielen kann.
+
+
+== Nutzen
+* Jump & Run mit Story
+* Jump & Run üben durch aufsteigende Schwierigkeit
+
+== Projektteam
+* Jona Krist
+* Sebastian (Projektleiter)
+* Dominik Soltysiak
+* Sofiane Bounab
+
+
+== Must-have Spielinhalte
+* Kleine Story
+* Levelsystem
+* Shop
+* Items + Coins
+* Charaktere mit Fähigkeiten
+
+== Zusätzlich
+* Leaderboard
+* Endless Mode
+* Multiplayer
+* Cosmetics
+
+== Programme
+* Unity
+* Gimp
