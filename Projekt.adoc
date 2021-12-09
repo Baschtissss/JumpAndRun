@@ -1,0 +1,26 @@
+= 2D Jump & Run
+
+== Teilnehmer
+* Jona Krist
+* Sebastian Witzeneder
+* Dominik Soltysiak
+* Sofiane Bounab
+
+== Programme
+* Unity
+* Gimp
+
+== Beschreibung
+2D Jump & Run für Windows.
+
+== Spielinhalt
+* Kleine Story
+* Levelsystem
+* Shop
+* Items + Coins
+* Charaktere mit Fähigkeiten
+
+== Zusatz
+* Endless Mode
+* Multiplayer
+* Cosmetics
