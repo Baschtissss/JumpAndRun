@@ -1,0 +1,46 @@
+[plantuml]
+....
+@startuml
+'skinparam handwritten true
+skinparam classAttributeIconSize 0
+skinparam nodesep 90
+
+title Classdiagram
+
+abstract class Entity{
++ movementSpeed : float
++ health : double
++ atkDamage : double
++ actHealth : double
++ GetDamagedTaken(double damage)
+}
+
+abstract class Enemy{
++ Start()
++ Update()
++ Move()
+}
+
+abstract class Player{
++ jumpHeight : float
++ Start()
++ Update()
++ Jump()
++ Attack()
+}
+
+class GameController{
++ levelComplete : bool[]
++ Update()
++ Start()
++ SwitchScene()
+}
+
+class trap{
++ damage : double
+}
+
+Player <|-- Entity
+Enemy <|-- Entity
+@enduml
+....
