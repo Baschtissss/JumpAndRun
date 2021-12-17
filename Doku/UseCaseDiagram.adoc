@@ -1,0 +1,20 @@
+[plantuml]
+....
+@startuml
+skinparam actorStyle awesome
+
+:player: as player
+package Game {
+player -(character select)
+player-(level select)
+(level select)->(play level)
+player-(settings)
+
+}
+
+package Shop {
+player-(shop)
+(shop)->(buy)
+}
+@enduml
+....

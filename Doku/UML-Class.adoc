@@ -40,7 +40,7 @@ class trap{
 + damage : double
 }
 
-Player <|-- Entity
-Enemy <|-- Entity
+Player --|> Entity
+Enemy --|> Entity
 @enduml
 ....
