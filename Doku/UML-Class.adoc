@@ -22,11 +22,22 @@ abstract class Enemy{
 }
 
 abstract class Player{
++ player : GameObject
++ inventory : GameObject
 + jumpHeight : float
++ coins : int
++ level : int
 + Start()
 + Update()
 + Jump()
 + Attack()
+}
+
+class Inventory{
++ size : int
++ inventory : GameObject
++ items: List<Item>
++ Visualize()
 }
 
 class GameController{
@@ -38,6 +49,17 @@ class GameController{
 
 class trap{
 + damage : double
+}
+
+class Item{
++ hasBought : bool
++ price : int
++ playerLevelToBuy : int
++ use()
+}
+
+class shop{
++ itemsToBuy : List<Item>
 }
 
 Player --|> Entity
