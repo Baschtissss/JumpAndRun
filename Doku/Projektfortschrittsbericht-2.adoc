@@ -6,17 +6,21 @@
 
 == Abgeschlossene Arbeitspakete
 
-* Charakterbewegung
+* Charakterbewegung + Faustattacken
 * Platformdesign
+* Pilzgegner
+* Kamerabewegung
 
 == Arbeitspakete in Arbeit
 
-* Charakterattacken + Animationen
-* Charakterdesign
 * Fallen
+* Pflanzengegner
+* Tutoriallevel bauen
+* Startmenü
 
 == Nächste Schritte
 
-* Animationen beim Charakter
-* Gegner
-* Levelaufbau
+* Charakter Schwertattacken
+* Wildschweingegner
+* UI (Lebensanzeige)
+* Inventar
