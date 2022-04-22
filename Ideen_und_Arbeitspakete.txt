@@ -23,4 +23,6 @@ Tannenbaum
 Wolf
 Geist
 
+Bosse
+Verfluchter Baum
 Drache
