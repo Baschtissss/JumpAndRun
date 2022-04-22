@@ -6,7 +6,7 @@
 
 == Abgeschlossene Arbeitspakete
 
-* Charakterbewegung + Faustattacken
+* Charakterbewegung + Faustattacke
 * Platformdesign
 * Pilzgegner
 * Kamerabewegung
@@ -20,7 +20,7 @@
 
 == Nächste Schritte
 
-* Charakter Schwertattacken
+* Charakter Schwertattacken + restliche Faustattacken
 * Wildschweingegner
 * UI (Lebensanzeige)
 * Inventar
