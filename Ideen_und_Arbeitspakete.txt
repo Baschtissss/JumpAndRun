@@ -5,7 +5,6 @@ Arial Unarmed Kick
 
 Sebi
 Pflanzengegner programmieren
-Pilz Todesanimation implementieren (Movement stoppen)
 (aushelfen)
 
 Dominik
