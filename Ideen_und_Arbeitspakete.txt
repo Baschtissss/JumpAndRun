@@ -1,6 +1,5 @@
 Jona
-Inventar 5x5 & UI Kästchen
-Pilz Todesanimation (erledigt)
+Inventar 5x5 & UI Kästchen (Graphic / evtl. Implementierung)
 Arial Unarmed Kick
 
 Sebi
@@ -8,14 +7,14 @@ Pflanzengegner programmieren
 (aushelfen)
 
 Dominik
-Startmenü
+Startmenü (aktuell nicht relevant)
 Spieler Schwertattacke
 Heavy Bodenattacke Unarmed 
 
 Sofiane
 Wildschweingegner
 
-Liste Ideen
+Liste der nächsten Schritte
 Unterschiedliche Wolken/Büsche
 Truhe
 Tannenbaum
