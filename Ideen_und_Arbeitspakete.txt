@@ -1,5 +1,5 @@
 Jona
-Inventar 5x5 & UI Kästchen (Graphic / evtl. Implementierung)
+Inventar 5x5 & UI Kästchen (evtl. Implementierung)
 Arial Unarmed Kick
 
 Sebi
