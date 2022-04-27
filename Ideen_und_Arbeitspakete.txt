@@ -9,12 +9,16 @@ Pflanzengegner programmieren
 Dominik
 Startmenü (aktuell nicht relevant)
 Spieler Schwertattacke
-Heavy Bodenattacke Unarmed 
+Heavy Bodenattacke Unarmed (sehr wichtig)
 
 Sofiane
 Wildschweingegner
 
 Liste der nächsten Schritte
+Stun, Cooldown und Knockback bei Attacken
+Hintergrund
+1. Boss
+
 Unterschiedliche Wolken/Büsche
 Truhe
 Tannenbaum
