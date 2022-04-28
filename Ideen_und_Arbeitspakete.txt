@@ -1,6 +1,5 @@
 Jona
 Inventar 5x5 & UI Kästchen (evtl. Implementierung)
-Arial Unarmed Kick
 
 Sebi
 Pflanzengegner programmieren
@@ -10,6 +9,7 @@ Dominik
 Startmenü (aktuell nicht relevant)
 Spieler Schwertattacke
 Heavy Bodenattacke Unarmed (sehr wichtig)
+Arial Unarmed Kick
 
 Sofiane
 Wildschweingegner
