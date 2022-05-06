@@ -13,10 +13,10 @@ Arial Unarmed Kick
 
 Sofiane
 Wildschweingegner
+Hintergrund
 
 Liste der nächsten Schritte
 Stun, Cooldown und Knockback bei Attacken
-Hintergrund
 1. Boss
 Tutorial Level fertig bauen
 Augen bei Main Char einfügen
